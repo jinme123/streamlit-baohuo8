@@ -1211,3 +1211,34 @@ Stacktrace:
 #25 0x7ff97269caa4 <unknown>
 #26 0x7ff972729c3c <unknown>
 
+[2025-07-17 01:56:20] 脚本异常出错: Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=138.0.7204.100)
+Stacktrace:
+#0 0x5591a1c087da <unknown>
+#1 0x5591a16ad2e0 <unknown>
+#2 0x5591a16a44c1 <unknown>
+#3 0x5591a1695789 <unknown>
+#4 0x5591a16974d0 <unknown>
+#5 0x5591a1695b2e <unknown>
+#6 0x5591a169549a <unknown>
+#7 0x5591a1695175 <unknown>
+#8 0x5591a1692fd5 <unknown>
+#9 0x5591a16937ba <unknown>
+#10 0x5591a16b0809 <unknown>
+#11 0x5591a174b335 <unknown>
+#12 0x5591a17248b2 <unknown>
+#13 0x5591a174a71c <unknown>
+#14 0x5591a1724683 <unknown>
+#15 0x5591a16f0b5b <unknown>
+#16 0x5591a16f1f31 <unknown>
+#17 0x5591a1bcd72b <unknown>
+#18 0x5591a1bd1534 <unknown>
+#19 0x5591a1bb4229 <unknown>
+#20 0x5591a1bd20d8 <unknown>
+#21 0x5591a1b9861f <unknown>
+#22 0x5591a1bf5dd8 <unknown>
+#23 0x5591a1bf5fb6 <unknown>
+#24 0x5591a1c07af6 <unknown>
+#25 0x7fa7a7e9caa4 <unknown>
+#26 0x7fa7a7f29c3c <unknown>
+
